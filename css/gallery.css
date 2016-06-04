@@ -1,0 +1,480 @@
+.version.gallery /* version checker */
+{
+	color: #00001E;
+	background-color: #5028D2;
+}
+
+.html
+{
+	background-color: #FFE1E0;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1150px;
+	min-height: 549.9px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -7px;
+	margin-bottom: -17px;
+}
+
+#pu212
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u212
+{
+	z-index: 2;
+	height: 46px;
+}
+
+#u212-bw
+{
+	z-index: 2;
+	margin-bottom: -1px;
+	height: 48px;
+}
+
+#menuu148
+{
+	z-index: 3;
+}
+
+#u149
+{
+	width: 336px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u150
+{
+	width: 336px;
+	padding-bottom: 17px;
+}
+
+#u150:hover
+{
+	margin: 0px;
+}
+
+#u150:active
+{
+	margin: 0px;
+}
+
+#u151-4
+{
+	width: 336px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u150:hover #u151-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u150:active #u151-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u156
+{
+	width: 336px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 338px;
+}
+
+#u159
+{
+	width: 336px;
+	padding-bottom: 17px;
+}
+
+#u150.MuseMenuActive,#u159:hover
+{
+	margin: 0px;
+}
+
+#u159:active
+{
+	margin: 0px;
+}
+
+#u161-4
+{
+	width: 336px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u150.MuseMenuActive #u151-4,#u159:hover #u161-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u159:active #u161-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u163
+{
+	width: 336px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 676px;
+}
+
+#u166
+{
+	width: 336px;
+	padding-bottom: 17px;
+}
+
+#u159.MuseMenuActive,#u166:hover
+{
+	margin: 0px;
+}
+
+#u166:active
+{
+	margin: 0px;
+}
+
+#u168-4
+{
+	width: 336px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u159.MuseMenuActive #u161-4,#u166:hover #u168-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u166:active #u168-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u790
+{
+	width: 336px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 1014px;
+}
+
+#u791
+{
+	width: 336px;
+	padding-bottom: 17px;
+}
+
+#u166.MuseMenuActive,#u791:hover
+{
+	margin: 0px;
+}
+
+#u791:active
+{
+	margin: 0px;
+}
+
+#u791.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u792-4
+{
+	width: 336px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u166.MuseMenuActive #u168-4,#u791:hover #u792-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u791:active #u792-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u791.MuseMenuActive #u792-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#menuu148-bw
+{
+	z-index: 3;
+	margin-top: 7px;
+	height: 34px;
+}
+
+#slideshowu672
+{
+	z-index: 33;
+	width: 0.01px;
+	height: 497px;
+	left: -98px;
+	margin-top: 3px;
+	position: relative;
+}
+
+#u673
+{
+	position: absolute;
+	width: 453px;
+	height: 497px;
+	background-color: transparent;
+}
+
+#u673popup
+{
+	z-index: 34;
+}
+
+#u676
+{
+	z-index: 35;
+	width: 453px;
+	height: 497px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u676:hover
+{
+	opacity: 0.59;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=59)";
+	filter: alpha(opacity=59);
+	margin: 0px -10000px 0px 0px;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#slideshowu704
+{
+	z-index: 37;
+	width: 0.01px;
+	height: 497px;
+	margin-left: 356px;
+	top: -497px;
+	margin-bottom: -497px;
+	position: relative;
+}
+
+#u705
+{
+	position: absolute;
+	width: 439px;
+	height: 497px;
+	background-color: transparent;
+}
+
+#u705popup
+{
+	z-index: 38;
+}
+
+#u706
+{
+	z-index: 39;
+	width: 439px;
+	height: 497px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u706:hover
+{
+	opacity: 0.58;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=57.99999999999999)";
+	filter: alpha(opacity=57.99999999999999);
+	margin: 0px -10000px 0px 0px;
+}
+
+#u706_clip
+{
+	overflow: hidden;
+	width: 439px;
+	height: 497px;
+}
+
+#u706_img
+{
+	margin-left: -29px;
+	margin-right: -29px;
+}
+
+#slideshowu736
+{
+	z-index: 41;
+	width: 0.01px;
+	height: 497px;
+	margin-left: 794px;
+	top: -497px;
+	margin-bottom: -497px;
+	position: relative;
+}
+
+#u737
+{
+	position: absolute;
+	width: 456px;
+	height: 497px;
+	background-color: transparent;
+}
+
+#u737popup
+{
+	z-index: 42;
+}
+
+#u740
+{
+	z-index: 43;
+	width: 456px;
+	height: 497px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u740:hover
+{
+	opacity: 0.56;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=56.00000000000001)";
+	filter: alpha(opacity=56.00000000000001);
+	margin: 0px -10000px 0px 0px;
+}
+
+#u740_clip
+{
+	overflow: hidden;
+	width: 456px;
+	height: 497px;
+}
+
+#u740_img
+{
+	margin-left: -20px;
+	margin-right: -21px;
+}
+
+#untitled
+{
+	margin-left: 129px;
+	top: -303px;
+	margin-bottom: -18px;
+	position: relative;
+}
+
+#untitled2
+{
+	margin-left: 1034px;
+	top: -272px;
+	margin-bottom: -18px;
+	position: relative;
+}
+
+#u1443
+{
+	z-index: 32;
+	width: 291px;
+	min-height: 39px;
+	margin-left: 959px;
+	margin-top: 17px;
+}
+
+#u177-4
+{
+	z-index: 28;
+	width: 227px;
+	min-height: 13px;
+	left: -75px;
+	margin-top: 8px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1150px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
